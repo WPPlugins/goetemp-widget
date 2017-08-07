@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Goetemp Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-09 20:43+0100\n"
+"PO-Revision-Date: 2014-10-09 20:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: Marc Lettau-Poelchen <contact@emelpe.de>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../goetemp.php:52 ../views/widget.php:24
+msgid "Goetemp Widget"
+msgstr "Goetemp Widget"
+
+#: ../goetemp.php:55
+msgid ""
+"Dieses Widget ruft die stündlich aktuellen Daten der Wetterstation "
+"Nohlstraße in Göttingen ab und zeigt sie an."
+msgstr ""
+"This widget retrieves the current hourly data of the weather station "
+"Nohlstraße in Göttingen and displays them."
+
+#: ../views/admin.php:4
+msgid "Titel des Widgets"
+msgstr "Title"
+
+#: ../views/admin.php:11
+msgid "Wählen Sie die Werte der Wetterstation aus, die angezeigt werden sollen"
+msgstr "Select the values ​​of the weather station, to be displayed"
+
+#: ../views/admin.php:17 ../views/widget.php:37
+msgid "Feinstaub"
+msgstr "fine dust"
+
+#: ../views/admin.php:24 ../views/widget.php:45
+msgid "Stickstoffdioxid"
+msgstr "nitrogen dioxide"
+
+#: ../views/admin.php:31 ../views/widget.php:53
+msgid "Schwefeldioxid"
+msgstr "sulfur dioxide"
+
+#: ../views/admin.php:38 ../views/widget.php:61
+msgid "Temperatur"
+msgstr "temperature"
+
+#: ../views/admin.php:45 ../views/widget.php:69
+msgid "Luftdruck"
+msgstr "air pressure"
+
+#: ../views/admin.php:52 ../views/widget.php:77
+msgid "Windrichtung"
+msgstr "wind direction"
+
+#: ../views/admin.php:59 ../views/widget.php:85
+msgid "Windgeschwindigkeit"
+msgstr "wind speed"
+
+#: ../views/admin.php:66 ../views/widget.php:93
+msgid "Luftfeuchtigkeit"
+msgstr "humidity"
+
+#: ../views/admin.php:73 ../views/widget.php:101
+msgid "Regendauer"
+msgstr "rainfall duration"
+
+#: ../views/admin.php:80 ../views/widget.php:109
+msgid "Globalstrahlung"
+msgstr "global radiation"
+
+#: ../views/admin.php:87 ../views/widget.php:117
+msgid "UV-Index"
+msgstr "UV-Index"
+
+#: ../views/admin.php:94 ../views/widget.php:125
+msgid "Ozon"
+msgstr "ozone"
+
+#: ../views/admin.php:101
+msgid "Weitere Optionen"
+msgstr "More options"
+
+#: ../views/admin.php:106
+msgid "Letzte Aktualisierung anzeigen"
+msgstr "Show last update"
+
+#: ../views/admin.php:111
+msgid "powered by Link anzeigen"
+msgstr "show powered by link"
+
+#: ../views/widget.php:29
+msgid "Stündlich aktuelle Werte von der Wetterstation Nohlstraße in Göttingen"
+msgstr "Hourly current values ​​of the weather station Nohlstraße in Göttingen"
+
+#: ../views/widget.php:29
+msgid "Wetterstation auf Google Maps zeigen"
+msgstr "Show weather station on Google Maps"
+
+#: ../views/widget.php:37
+msgid "Was ist Feinstaub?"
+msgstr "What is fine dust?"
+
+#: ../views/widget.php:45
+msgid "Was ist Stickstoffdioxid?"
+msgstr "What is nitrogen dioxide?"
+
+#: ../views/widget.php:53
+msgid "Was ist Schwefeldioxid?"
+msgstr "What is sulfur dioxide?"
+
+#: ../views/widget.php:69
+msgid "Was ist der Luftdruck?"
+msgstr "What is air pressure?"
+
+#: ../views/widget.php:93
+msgid "Was ist Luftfeuchtigkeit?"
+msgstr "What is humidity?"
+
+#: ../views/widget.php:109
+msgid "Was bedeutet die Globalstrahlung?"
+msgstr "What does global radiation mean?"
+
+#: ../views/widget.php:117
+msgid "Was bedeutet der UV-Index?"
+msgstr "What does the UV-Index mean?"
+
+#: ../views/widget.php:125
+msgid "Was ist Ozon?"
+msgstr "What is ozone?"
+
+#: ../views/widget.php:135
+msgid "Letzte Aktualisierung"
+msgstr "Last update"
+
+#: ../views/widget.php:138
+msgid "Uhr"
+msgstr "h"
